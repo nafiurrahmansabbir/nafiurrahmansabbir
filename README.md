@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiurrahmansabbir&label=Profile%20views&color=0e75b6&style=flat" alt="nafiurrahmansabbir" /> </p>
 
+- 🔭 I’m currently working on **  **
 
+- 💬 Ask me about ** **
+
+- 📫 How to reach me **nafiurrahmansabbir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
