@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nafiur Rahman Sabbir</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiurrahmansabbir&label=Profile%20views&color=0e75b6&style=flat" alt="nafiurrahmansabbir" /> </p>
-<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif">
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiurrahmansabbir&label=Profile%20views&color=0e75b6&style=flat" alt="nafiurrahmansabbir" /> </p> -->
+<img align="center" alt="Coding" width="400" src="https://gist.githubusercontent.com/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" > 
 
 - 🔭 I’m currently working on **  **
 
