@@ -22,7 +22,7 @@
 
 
 <!--Black Colour -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiurrahmansabbir&theme=midnight-purple&hide_show_icons=true&locale=en" alt="nafiurrahmansabbir" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiurrahmansabbir&theme=midnight-purple&hide_show_icons=true&locale=en" alt="nafiurrahmansabbir" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiurrahmansabbir&theme=midnight-purple&hide_show_icons=true&locale=en" alt="nafiurrahmansabbir" /></p>
 
