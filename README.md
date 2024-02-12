@@ -30,6 +30,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiurrahmansabbir&theme=midnight-purple&hide_show_icons=true&locale=en" alt="nafiurrahmansabbir" /></p> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiurrahmansabbir)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiurrahmansabbir&theme=radical&hide_show_icons=true&locale=en" alt="nafiurrahmansabbir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiurrahmansabbir&theme=radical&hide_show_icons=true&locale=en" alt="nafiurrahmansabbir" /></p>
+
 <!-- Black Tophy -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafiurrahmansabbir&theme=onestar&no-frame=true&no-bg=false&margin-w=4" alt="nafiurrahmansabbir" /></a> </p>
 
