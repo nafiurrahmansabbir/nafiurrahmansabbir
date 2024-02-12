@@ -26,11 +26,9 @@
 <!--Black Colour -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiurrahmansabbir&theme=midnight-purple&hide_show_icons=true&locale=en" alt="nafiurrahmansabbir" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiurrahmansabbir&theme=midnight-purple&hide_show_icons=true&locale=en" alt="nafiurrahmansabbir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiurrahmansabbir&theme=midnight-purple&hide_show_icons=true&locale=en" alt="nafiurrahmansabbir" /></p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiurrahmansabbir&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiurrahmansabbir)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiurrahmansabbir&theme=radical&hide_show_icons=true&locale=en" alt="nafiurrahmansabbir" /></p>
